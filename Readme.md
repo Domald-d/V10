@@ -5,7 +5,7 @@ npm run dev til að keyra dev
 npm run build til að keyra build ferli
 npm run elint til að keyra eslint
 npm run slint til að keyra stylelint
-npm run sass til að uppfæra scss etc og fylgjast með breytingum
+npm run sass til að uppfæra scss etc
 
 ákvað að nota Canvas webAPI  tók gamalt verkefni úr tskólanum og uppfærði það fyrir snið verkefnis
 hægt er að lita á canvas með lita schema hægt er að save/downloada mynd sem jpg mynd

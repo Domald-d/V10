@@ -8,11 +8,14 @@
     "build": "vite build",
     "preview": "vite preview",
     "elint": "eslint ./",
-    "slint": "stylelint styles.scss ./**/*.scss",
-    "sass": "sass *scss style.css"
+    "slint": "stylelint style.scss ./**/*.scss",
+    "sass": "sass style.scss style.css"
   },
   "devDependencies": {
     "sass": "^1.80.6",
+    "stylelint": "^16.10.0",
+    "stylelint-config-sass-guidelines": "^12.1.0",
+    "stylelint-config-standard": "^36.0.1",
     "vite": "^5.4.10"
   },
   "dependencies": {
